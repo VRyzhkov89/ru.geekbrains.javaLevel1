@@ -36,6 +36,7 @@ public class Main {
             feed = scanner.nextInt();
             plate.increaseFood(feed);
             plate.info();
+
         } while (feed !=0);
     }
 }

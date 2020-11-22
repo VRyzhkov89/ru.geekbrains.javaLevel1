@@ -11,6 +11,7 @@ public class Plate {
     public void increaseFood(int x) {
         food += x;
     }
+
     public void info() {
         System.out.println("В миске осталось: " + food + " грамм корма.");
         System.out.println();

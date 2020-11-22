@@ -11,6 +11,7 @@ public class Cat {
         this.appetite = appetite;
         this.fullness = fullness;
         this.alreadyEat = alreadyEat;
+
     }
 
     public void eat(Plate plate) {
